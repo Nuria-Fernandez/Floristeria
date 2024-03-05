@@ -1,4 +1,4 @@
 package FlowerStoreFactory.Interfaces;
 
-public class eliminar {
+public class GardenElements {
 }
