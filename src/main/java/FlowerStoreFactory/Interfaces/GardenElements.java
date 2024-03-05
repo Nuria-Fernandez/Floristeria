@@ -1,4 +1,9 @@
 package FlowerStoreFactory.Interfaces;
 
-public class GardenElements {
+import jdk.jfr.Description;
+
+public interface GardenElements {
+   void displayCharacteristics();
+
+   void getPrice(double price);
 }
