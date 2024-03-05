@@ -1,4 +1,4 @@
 package FlowerStoreFactory.Products;
 
-public class eliminar {
+public class Flower {
 }
